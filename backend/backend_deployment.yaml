@@ -18,7 +18,7 @@ spec:
         app: backend
     spec:
       containers:
-      - image: bruno11n1/backend:latest
+      - image: bruno11n1/backend:RC-2.55567d0
         name: backend
         ports:
         - containerPort: 5001
